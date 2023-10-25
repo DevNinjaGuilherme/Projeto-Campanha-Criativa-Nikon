@@ -5,5 +5,6 @@ Como produtor e sound designer, também criei toda a trilha sonora para a campan
 
 Uma decisão-chave que tomei foi a escolha do tema espacial. A atmosfera e o mistério do espaço fora da terra proporcionaram o cenário ideal para destacar as capacidades da câmera fotográfica e criar uma narrativa visualmente fascinante. Este projeto é um reflexo do meu compromisso com a criatividade e a produção independente.
 
-https://github.com/DevNinjaGuilherme/Projeto-Campanha-Criativa-Nikon/assets/141981927/5839d0ff-c121-4e40-9510-7be6e029eac0
+
+https://github.com/DevNinjaGuilherme/Projeto-Campanha-Criativa-Nikon/assets/141981927/3793ef35-d027-44c4-864f-bc259c302409
 
